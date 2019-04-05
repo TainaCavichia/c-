@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\Aulas C#\Switch\bin\Debug\netcoreapp2.1\Switch.deps.json
+C:\Users\41813664803\Documents\Aulas C#\Switch\bin\Debug\netcoreapp2.1\Switch.runtimeconfig.json
+C:\Users\41813664803\Documents\Aulas C#\Switch\bin\Debug\netcoreapp2.1\Switch.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Aulas C#\Switch\bin\Debug\netcoreapp2.1\Switch.dll
+C:\Users\41813664803\Documents\Aulas C#\Switch\bin\Debug\netcoreapp2.1\Switch.pdb
+C:\Users\41813664803\Documents\Aulas C#\Switch\obj\Debug\netcoreapp2.1\Switch.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Aulas C#\Switch\obj\Debug\netcoreapp2.1\Switch.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\Switch\obj\Debug\netcoreapp2.1\Switch.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\Switch\obj\Debug\netcoreapp2.1\Switch.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Aulas C#\Switch\obj\Debug\netcoreapp2.1\Switch.dll
+C:\Users\41813664803\Documents\Aulas C#\Switch\obj\Debug\netcoreapp2.1\Switch.pdb
