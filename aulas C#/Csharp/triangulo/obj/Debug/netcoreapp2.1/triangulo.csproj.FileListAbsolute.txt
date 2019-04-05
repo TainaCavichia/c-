@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\bin\Debug\netcoreapp2.1\triangulo.deps.json
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\bin\Debug\netcoreapp2.1\triangulo.runtimeconfig.json
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\bin\Debug\netcoreapp2.1\triangulo.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\bin\Debug\netcoreapp2.1\triangulo.dll
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\bin\Debug\netcoreapp2.1\triangulo.pdb
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\obj\Debug\netcoreapp2.1\triangulo.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\obj\Debug\netcoreapp2.1\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\obj\Debug\netcoreapp2.1\triangulo.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\obj\Debug\netcoreapp2.1\triangulo.AssemblyInfo.cs
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\obj\Debug\netcoreapp2.1\triangulo.dll
+C:\Users\46748080819\Documents\aulas C#\Csharp\triangulo\obj\Debug\netcoreapp2.1\triangulo.pdb

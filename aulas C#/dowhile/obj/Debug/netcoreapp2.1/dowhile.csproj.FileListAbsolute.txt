@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\aulas C#\dowhile\bin\Debug\netcoreapp2.1\dowhile.deps.json
+C:\Users\46748080819\Documents\aulas C#\dowhile\bin\Debug\netcoreapp2.1\dowhile.runtimeconfig.json
+C:\Users\46748080819\Documents\aulas C#\dowhile\bin\Debug\netcoreapp2.1\dowhile.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\aulas C#\dowhile\bin\Debug\netcoreapp2.1\dowhile.dll
+C:\Users\46748080819\Documents\aulas C#\dowhile\bin\Debug\netcoreapp2.1\dowhile.pdb
+C:\Users\46748080819\Documents\aulas C#\dowhile\obj\Debug\netcoreapp2.1\dowhile.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\aulas C#\dowhile\obj\Debug\netcoreapp2.1\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\aulas C#\dowhile\obj\Debug\netcoreapp2.1\dowhile.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\aulas C#\dowhile\obj\Debug\netcoreapp2.1\dowhile.AssemblyInfo.cs
+C:\Users\46748080819\Documents\aulas C#\dowhile\obj\Debug\netcoreapp2.1\dowhile.dll
+C:\Users\46748080819\Documents\aulas C#\dowhile\obj\Debug\netcoreapp2.1\dowhile.pdb

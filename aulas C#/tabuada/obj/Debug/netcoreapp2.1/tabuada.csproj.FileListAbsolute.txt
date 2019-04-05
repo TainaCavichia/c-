@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\aulas C#\tabuada\bin\Debug\netcoreapp2.1\tabuada.deps.json
+C:\Users\46748080819\Documents\aulas C#\tabuada\bin\Debug\netcoreapp2.1\tabuada.runtimeconfig.json
+C:\Users\46748080819\Documents\aulas C#\tabuada\bin\Debug\netcoreapp2.1\tabuada.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\aulas C#\tabuada\bin\Debug\netcoreapp2.1\tabuada.dll
+C:\Users\46748080819\Documents\aulas C#\tabuada\bin\Debug\netcoreapp2.1\tabuada.pdb
+C:\Users\46748080819\Documents\aulas C#\tabuada\obj\Debug\netcoreapp2.1\tabuada.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\aulas C#\tabuada\obj\Debug\netcoreapp2.1\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\aulas C#\tabuada\obj\Debug\netcoreapp2.1\tabuada.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\aulas C#\tabuada\obj\Debug\netcoreapp2.1\tabuada.AssemblyInfo.cs
+C:\Users\46748080819\Documents\aulas C#\tabuada\obj\Debug\netcoreapp2.1\tabuada.dll
+C:\Users\46748080819\Documents\aulas C#\tabuada\obj\Debug\netcoreapp2.1\tabuada.pdb

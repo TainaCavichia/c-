@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\obj\Debug\netcoreapp2.1\multiplos4.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\obj\Debug\netcoreapp2.1\multiplos4.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\obj\Debug\netcoreapp2.1\multiplos4.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\obj\Debug\netcoreapp2.1\multiplos4.AssemblyInfo.cs
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\bin\Debug\netcoreapp2.1\multiplos4.deps.json
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\bin\Debug\netcoreapp2.1\multiplos4.runtimeconfig.json
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\bin\Debug\netcoreapp2.1\multiplos4.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\bin\Debug\netcoreapp2.1\multiplos4.dll
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\bin\Debug\netcoreapp2.1\multiplos4.pdb
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\obj\Debug\netcoreapp2.1\multiplos4.dll
+C:\Users\46748080819\Documents\aulas C#\Csharp\multiplos4\obj\Debug\netcoreapp2.1\multiplos4.pdb

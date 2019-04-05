@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\bin\Debug\netcoreapp2.1\imapr ou par.deps.json
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\bin\Debug\netcoreapp2.1\imapr ou par.runtimeconfig.json
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\bin\Debug\netcoreapp2.1\imapr ou par.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\bin\Debug\netcoreapp2.1\imapr ou par.dll
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\bin\Debug\netcoreapp2.1\imapr ou par.pdb
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\obj\Debug\netcoreapp2.1\imapr ou par.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\obj\Debug\netcoreapp2.1\imapr ou par.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\obj\Debug\netcoreapp2.1\imapr ou par.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\obj\Debug\netcoreapp2.1\imapr ou par.AssemblyInfo.cs
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\obj\Debug\netcoreapp2.1\imapr ou par.dll
+C:\Users\46748080819\Documents\aulas C#\imapr ou par\obj\Debug\netcoreapp2.1\imapr ou par.pdb
