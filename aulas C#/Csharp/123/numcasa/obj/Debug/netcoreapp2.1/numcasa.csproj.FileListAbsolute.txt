@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\bin\Debug\netcoreapp2.1\numcasa.deps.json
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\bin\Debug\netcoreapp2.1\numcasa.runtimeconfig.json
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\bin\Debug\netcoreapp2.1\numcasa.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\bin\Debug\netcoreapp2.1\numcasa.dll
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\bin\Debug\netcoreapp2.1\numcasa.pdb
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\obj\Debug\netcoreapp2.1\numcasa.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\obj\Debug\netcoreapp2.1\numcasa.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\obj\Debug\netcoreapp2.1\numcasa.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\obj\Debug\netcoreapp2.1\numcasa.AssemblyInfo.cs
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\obj\Debug\netcoreapp2.1\numcasa.dll
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\123\numcasa\obj\Debug\netcoreapp2.1\numcasa.pdb

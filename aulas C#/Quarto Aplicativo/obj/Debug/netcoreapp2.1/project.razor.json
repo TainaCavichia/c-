@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\46748080819\\Documents\\aulas C#\\Quarto Aplicativo\\Quarto Aplicativo.csproj",
+  "ProjectFilePath": "c:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Quarto Aplicativo\\Quarto Aplicativo.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

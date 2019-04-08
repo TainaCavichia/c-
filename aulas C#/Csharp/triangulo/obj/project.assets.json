@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46748080819\\Documents\\aulas C#\\Csharp\\triangulo\\triangulo.csproj",
+      "projectUniqueName": "C:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Csharp\\triangulo\\triangulo.csproj",
       "projectName": "triangulo",
-      "projectPath": "C:\\Users\\46748080819\\Documents\\aulas C#\\Csharp\\triangulo\\triangulo.csproj",
+      "projectPath": "C:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Csharp\\triangulo\\triangulo.csproj",
       "packagesPath": "C:\\Users\\46748080819\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46748080819\\Documents\\aulas C#\\Csharp\\triangulo\\obj\\",
+      "outputPath": "C:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Csharp\\triangulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
