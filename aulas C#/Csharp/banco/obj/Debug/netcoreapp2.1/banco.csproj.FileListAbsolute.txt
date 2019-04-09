@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\obj\Debug\netcoreapp2.1\banco.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\obj\Debug\netcoreapp2.1\banco.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\obj\Debug\netcoreapp2.1\banco.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\obj\Debug\netcoreapp2.1\banco.AssemblyInfo.cs
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\bin\Debug\netcoreapp2.1\banco.deps.json
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\bin\Debug\netcoreapp2.1\banco.runtimeconfig.json
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\bin\Debug\netcoreapp2.1\banco.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\bin\Debug\netcoreapp2.1\banco.dll
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\bin\Debug\netcoreapp2.1\banco.pdb
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\obj\Debug\netcoreapp2.1\banco.dll
+C:\Users\46748080819\Documents\c-\aulas C#\Csharp\banco\obj\Debug\netcoreapp2.1\banco.pdb
