@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\bin\Debug\netcoreapp2.1\gerador_de_abobrinha.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\bin\Debug\netcoreapp2.1\gerador_de_abobrinha.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\bin\Debug\netcoreapp2.1\gerador_de_abobrinha.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\bin\Debug\netcoreapp2.1\gerador_de_abobrinha.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\bin\Debug\netcoreapp2.1\gerador_de_abobrinha.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\obj\Debug\netcoreapp2.1\gerador_de_abobrinha.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\obj\Debug\netcoreapp2.1\gerador_de_abobrinha.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\obj\Debug\netcoreapp2.1\gerador_de_abobrinha.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\obj\Debug\netcoreapp2.1\gerador_de_abobrinha.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\obj\Debug\netcoreapp2.1\gerador_de_abobrinha.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\gerador_de_abobrinha\obj\Debug\netcoreapp2.1\gerador_de_abobrinha.pdb

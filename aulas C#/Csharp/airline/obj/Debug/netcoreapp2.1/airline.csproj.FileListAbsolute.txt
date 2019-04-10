@@ -9,3 +9,14 @@ C:\Users\46748080819\Documents\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.
 C:\Users\46748080819\Documents\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.AssemblyInfo.cs
 C:\Users\46748080819\Documents\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.dll
 C:\Users\46748080819\Documents\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\bin\Debug\netcoreapp2.1\airline.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\bin\Debug\netcoreapp2.1\airline.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\bin\Debug\netcoreapp2.1\airline.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\bin\Debug\netcoreapp2.1\airline.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\bin\Debug\netcoreapp2.1\airline.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\airline\obj\Debug\netcoreapp2.1\airline.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Csharp\\airline\\airline.csproj",
+      "projectUniqueName": "C:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\Csharp\\airline\\airline.csproj",
       "projectName": "airline",
-      "projectPath": "C:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Csharp\\airline\\airline.csproj",
+      "projectPath": "C:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\Csharp\\airline\\airline.csproj",
       "packagesPath": "C:\\Users\\46748080819\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46748080819\\Documents\\c-\\aulas C#\\Csharp\\airline\\obj\\",
+      "outputPath": "C:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\Csharp\\airline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

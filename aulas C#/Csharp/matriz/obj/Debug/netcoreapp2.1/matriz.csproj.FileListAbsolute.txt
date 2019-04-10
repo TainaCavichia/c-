@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\bin\Debug\netcoreapp2.1\matriz.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\bin\Debug\netcoreapp2.1\matriz.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\bin\Debug\netcoreapp2.1\matriz.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\bin\Debug\netcoreapp2.1\matriz.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\bin\Debug\netcoreapp2.1\matriz.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\obj\Debug\netcoreapp2.1\matriz.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\obj\Debug\netcoreapp2.1\matriz.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\obj\Debug\netcoreapp2.1\matriz.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\obj\Debug\netcoreapp2.1\matriz.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\obj\Debug\netcoreapp2.1\matriz.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\matriz\obj\Debug\netcoreapp2.1\matriz.pdb
