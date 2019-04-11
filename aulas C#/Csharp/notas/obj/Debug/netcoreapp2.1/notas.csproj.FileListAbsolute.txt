@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\bin\Debug\netcoreapp2.1\notas.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\bin\Debug\netcoreapp2.1\notas.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\bin\Debug\netcoreapp2.1\notas.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\bin\Debug\netcoreapp2.1\notas.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\bin\Debug\netcoreapp2.1\notas.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\obj\Debug\netcoreapp2.1\notas.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\obj\Debug\netcoreapp2.1\notas.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\obj\Debug\netcoreapp2.1\notas.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\obj\Debug\netcoreapp2.1\notas.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\obj\Debug\netcoreapp2.1\notas.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\Csharp\notas\obj\Debug\netcoreapp2.1\notas.pdb
