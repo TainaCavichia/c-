@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\bin\Debug\netcoreapp2.1\jesus.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\bin\Debug\netcoreapp2.1\jesus.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\bin\Debug\netcoreapp2.1\jesus.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\bin\Debug\netcoreapp2.1\jesus.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\bin\Debug\netcoreapp2.1\jesus.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\obj\Debug\netcoreapp2.1\jesus.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\obj\Debug\netcoreapp2.1\jesus.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\obj\Debug\netcoreapp2.1\jesus.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\obj\Debug\netcoreapp2.1\jesus.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\obj\Debug\netcoreapp2.1\jesus.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\jesus\obj\Debug\netcoreapp2.1\jesus.pdb
