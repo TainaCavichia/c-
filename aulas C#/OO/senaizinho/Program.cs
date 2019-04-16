@@ -1,67 +1,103 @@
 ﻿using System;
 
-namespace senaizinho
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int escolha = 1;
+namespace senaizinho {
+    class Program {
+        static void Main (string[] args) {
+            int escolha = 0;
             bool repetir = true;
-            int cont = 0;
+            int AlunosCadastrados = 0;
+            int SalasCadastradas = 0;
 
             Aluno[] Alunos = new Aluno[4];
-            Salas[] salas = new Salas[1];
+            Sala[] Salas = new Sala[2];
 
-            do
-            {
-                Console.WriteLine("---------------------Escolha uma opção---------------------");
-                Console.WriteLine("1 - Cadastrar Aluno");
-                Console.WriteLine("2 - Cadastrar Sala");
-                Console.WriteLine("3 - Alocar Aluno");
-                Console.WriteLine("4 - Remover Aluno");
-                Console.WriteLine("5 - Verificar Salas");
-                Console.WriteLine("6 - Verificar Alunos");
-                Console.WriteLine("0 - Sair");
+            do {
+                Console.WriteLine ("---------------------Escolha uma opção---------------------");
+                Console.WriteLine ("1 - Cadastrar Aluno");
+                Console.WriteLine ("2 - Cadastrar Sala");
+                Console.WriteLine ("3 - Alocar Aluno");
+                Console.WriteLine ("4 - Remover Aluno");
+                Console.WriteLine ("5 - Verificar Salas");
+                Console.WriteLine ("6 - Verificar Alunos");
+                Console.WriteLine ("0 - Sair");
+                Console.WriteLine ("-----------------------------------------------------------");
+                escolha = int.Parse (Console.ReadLine ());
 
-
-                switch (escolha)
-                {
+                switch (escolha) {
                     case 1:
 
-                        Console.WriteLine("Digite o nome do aluno:");
-                        Alunos[cont].nome = Console.ReadLine();
+                        Aluno p = new Aluno ();
 
-                        Console.WriteLine("Digite a data de nascimento do aluno:");
-                        Alunos[cont].dataNascimento = DateTime.Parse(System.Console.ReadLine());
+                        Console.WriteLine ("Digite o nome do aluno:");
+                        p.setNome (Console.ReadLine ());
 
-                        Console.WriteLine("Digite o seu curso:");
-                        Alunos[cont].curso = Console.ReadLine();
+                        Console.WriteLine ("Digite a data de nascimento do aluno:");
+                        p.setDataNascimento (DateTime.Parse (System.Console.ReadLine ()));
 
-                        Console.WriteLine("Digite o numero da sala:");
-                        Alunos[cont].numeroSala = int.Parse(Console.ReadLine());
+                        Console.WriteLine ("Digite o seu curso:");
+                        p.setCurso (Console.ReadLine ());
 
-                        cont++;
+                        Alunos[AlunosCadastrados] = p;
+                        AlunosCadastrados++;
 
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine ("Aluno cadastrado com sucesso");
+                        Console.ResetColor();
+
+                        Console.WriteLine("Aperte ENTER para voltar ao menu");
+                        Console.ReadLine();
                         break;
-
                     case 2:
 
-                        Console.WriteLine("Digite o numero da sala:");
-                        salas[0].numeroSala = int.Parse(Console.ReadLine());
+                        Sala a = new Sala ();
 
-                        Console.WriteLine("Digite a capacidade de alunos:");
-                        salas[0].capacidadeAtual = int.Parse(Console.ReadLine());
+                        Console.WriteLine ("Digite o numero da sala:");
+                        a.setNumeroSala (int.Parse (Console.ReadLine ()));
 
-                        Console.WriteLine("");
-                        salas[0].alunos = Console.ReadLine();
+                        Console.WriteLine ("Digite a capacidade de alunos:");
+                        a.setCapacidadeTotal (int.Parse (Console.ReadLine ()));
+
+                        a.capacidadeAtual = a.capacidadeTotal;
+                        a.alunos = new string[a.capacidadeTotal];
+
+                        Salas[SalasCadastradas] = a;
+                        SalasCadastradas++;
+
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine ("Sala cadastrada com sucesso");
+                        Console.ResetColor();
+
+                        Console.WriteLine("Aperte ENTER para voltar ao menu");
+                        Console.ReadLine();
 
                         break;
-
+                    case 5:
+                    foreach (var item in Salas)
+                    {
+                        if (item != null)
+                        {
+                        Console.WriteLine($"-----------------------------------------");
+                        Console.WriteLine($"Numero da sala: {item.numeroSala}");
+                        Console.WriteLine($"Vagas disponiveis: {item.capacidadeAtual}");
+                        Console.WriteLine($"-----------------------------------------");
+                        }
+                    }
+                        break;
+                    case 6:
+                    
+                    foreach (var item in Alunos)
+                    {
+                        if (item != null)
+                        {
+                        Console.WriteLine($"-----------------------------------------");
+                        Console.WriteLine($"Nome do aluno {item.nome}");
+                        Console.WriteLine($"Curso: {item.curso}");
+                        Console.WriteLine($"-----------------------------------------");
+                        }
+                    }
+                    break;
                 }
-
-            }while (repetir) ;
-    }
+            } while (repetir);
+        }
     }
 }
-

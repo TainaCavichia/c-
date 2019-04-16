@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\exercicio\\exercicio.csproj",
+      "projectUniqueName": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\senaizinho\\exercicio.csproj",
       "projectName": "exercicio",
-      "projectPath": "C:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\exercicio\\exercicio.csproj",
+      "projectPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\senaizinho\\exercicio.csproj",
       "packagesPath": "C:\\Users\\46748080819\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\exercicio\\obj\\",
+      "outputPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\senaizinho\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
