@@ -12,6 +12,7 @@ namespace senaizinho {
             Sala[] Salas = new Sala[2];
 
             do {
+                Console.Clear();
                 Console.WriteLine ("---------------------Escolha uma opção---------------------");
                 Console.WriteLine ("1 - Cadastrar Aluno");
                 Console.WriteLine ("2 - Cadastrar Sala");
@@ -42,10 +43,10 @@ namespace senaizinho {
 
                         Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine ("Aluno cadastrado com sucesso");
-                        Console.ResetColor();
+                        Console.ResetColor ();
 
-                        Console.WriteLine("Aperte ENTER para voltar ao menu");
-                        Console.ReadLine();
+                        Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                        Console.ReadLine ();
                         break;
                     case 2:
 
@@ -65,37 +66,97 @@ namespace senaizinho {
 
                         Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine ("Sala cadastrada com sucesso");
-                        Console.ResetColor();
+                        Console.ResetColor ();
 
-                        Console.WriteLine("Aperte ENTER para voltar ao menu");
-                        Console.ReadLine();
+                        Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                        Console.ReadLine ();
+
+                        break;
+                    case 3:
+                        if (AlunosCadastrados == 0) {
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.WriteLine ("Nenhum aluno cadastrado");
+                            Console.ResetColor ();
+
+                            Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+
+                        } else if (SalasCadastradas == 0) {
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.WriteLine ("Nenhuma sala cadastrada");
+                            Console.ResetColor ();
+
+                            Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+                        Console.WriteLine ("Digite o nome do aluno:");
+                        string nomeAluno = Console.ReadLine ();
+
+                        Aluno alunoRecuperado = null;
+
+                        foreach (var item in Alunos) {
+                            if (item != null && nomeAluno.Equals (item.nome)) {
+                                alunoRecuperado = item;
+                                break;
+                            }
+                        }
+                        if (alunoRecuperado == null) {
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.WriteLine ($"Aluno {nomeAluno} não encontrado");
+                            Console.ResetColor ();
+
+                            Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+
+                        }
+                        Console.WriteLine ("Digite o numero da sala:");
+                        int numeroSala = int.Parse (Console.ReadLine ());
+
+                        Sala salaRecuperada = null;
+                        foreach (var item in Salas) {
+                            if (item != null && numeroSala.Equals (item.numeroSala)) {
+                                salaRecuperada = item;
+                                break;
+                            }
+                        }
+                        if (salaRecuperada == null) {
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.WriteLine ($"Sala {numeroSala} não encontrado");
+                            Console.ResetColor ();
+
+                            Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+
+                        }
+                        Console.WriteLine (salaRecuperada.AlocarAluno (alunoRecuperado.nome));
 
                         break;
                     case 5:
-                    foreach (var item in Salas)
-                    {
-                        if (item != null)
-                        {
-                        Console.WriteLine($"-----------------------------------------");
-                        Console.WriteLine($"Numero da sala: {item.numeroSala}");
-                        Console.WriteLine($"Vagas disponiveis: {item.capacidadeAtual}");
-                        Console.WriteLine($"-----------------------------------------");
+                        foreach (var item in Salas) {
+                            if (item != null) {
+                                Console.WriteLine ($"-----------------------------------------");
+                                Console.WriteLine ($"Numero da sala: {item.numeroSala}");
+                                Console.WriteLine ($"Vagas disponiveis: {item.capacidadeAtual}");
+                                Console.WriteLine ($"Alunos: {item.ExibirAlunos()}");
+                                Console.WriteLine ($"-----------------------------------------");
+                            }
                         }
-                    }
                         break;
                     case 6:
-                    
-                    foreach (var item in Alunos)
-                    {
-                        if (item != null)
-                        {
-                        Console.WriteLine($"-----------------------------------------");
-                        Console.WriteLine($"Nome do aluno {item.nome}");
-                        Console.WriteLine($"Curso: {item.curso}");
-                        Console.WriteLine($"-----------------------------------------");
+
+                        foreach (var item in Alunos) {
+                            if (item != null) {
+                                Console.WriteLine ($"-----------------------------------------");
+                                Console.WriteLine ($"Nome do aluno {item.nome}");
+                                Console.WriteLine ($"Curso: {item.curso}");
+                                Console.WriteLine ($"-----------------------------------------");
+                            }
                         }
-                    }
-                    break;
+                        break;
                 }
             } while (repetir);
         }

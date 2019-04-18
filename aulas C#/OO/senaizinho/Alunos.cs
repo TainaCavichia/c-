@@ -12,6 +12,8 @@ namespace senaizinho
 
         public int numeroSala;
 
+        public string alocarAlunos;
+
         public void setNome(string nome)
         {
             this.nome = nome;
