@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\pizzaria\\pizzaria.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

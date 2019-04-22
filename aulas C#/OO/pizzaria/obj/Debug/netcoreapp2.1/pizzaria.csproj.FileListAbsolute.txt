@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\bin\Debug\netcoreapp2.1\pizzaria.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\bin\Debug\netcoreapp2.1\pizzaria.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\bin\Debug\netcoreapp2.1\pizzaria.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\bin\Debug\netcoreapp2.1\pizzaria.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\bin\Debug\netcoreapp2.1\pizzaria.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\obj\Debug\netcoreapp2.1\pizzaria.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\obj\Debug\netcoreapp2.1\pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\obj\Debug\netcoreapp2.1\pizzaria.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\obj\Debug\netcoreapp2.1\pizzaria.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\obj\Debug\netcoreapp2.1\pizzaria.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\OO\pizzaria\obj\Debug\netcoreapp2.1\pizzaria.pdb
