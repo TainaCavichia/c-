@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\46748080819\\.nuget\\packages\\": {},
+    "C:\\Users\\Tsukamoto\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\pizzaria\\pizzaria.csproj",
-      "projectName": "pizzaria",
-      "projectPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\pizzaria\\pizzaria.csproj",
-      "packagesPath": "C:\\Users\\46748080819\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\OO\\pizzaria\\obj\\",
+      "projectUniqueName": "D:\\CSHARP\\Manhã\\OrientacaoObjeto\\DesafioPizzaria\\DesafioPizzaria.csproj",
+      "projectName": "DesafioPizzaria",
+      "projectPath": "D:\\CSHARP\\Manhã\\OrientacaoObjeto\\DesafioPizzaria\\DesafioPizzaria.csproj",
+      "packagesPath": "C:\\Users\\Tsukamoto\\.nuget\\packages\\",
+      "outputPath": "D:\\CSHARP\\Manhã\\OrientacaoObjeto\\DesafioPizzaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\46748080819\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tsukamoto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

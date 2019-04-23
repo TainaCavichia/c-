@@ -1,0 +1,11 @@
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.csprojAssemblyReference.cache
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.csproj.CoreCompileInputs.cache
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.AssemblyInfoInputs.cache
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.AssemblyInfo.cs
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.deps.json
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.runtimeconfig.json
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.runtimeconfig.dev.json
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.dll
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.pdb
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.dll
+D:\CSHARP\Manhã\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.pdb

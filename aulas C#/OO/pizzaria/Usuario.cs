@@ -43,7 +43,33 @@ namespace pizzaria
             arrayDeUsuarios[contador].Senha = senha;
             arrayDeUsuarios[contador].DataCriação = DateTime.Now;
         }
+        public static void EfetuarLogin()
+        {
+            string email;
+            string senha;
 
+            System.Console.WriteLine("Digite o email do Usuario");
+            email = Console.ReadLine();
+
+            System.Console.WriteLine("Digite a senha");
+            senha = Console.ReadLine();
+
+            foreach (var item in arrayDeUsuarios)
+            {
+                if (item != null)
+                {
+                    
+                if (email.Equals(item.Email) && senha.Equals(item.Senha))
+                {
+                    System.Console.WriteLine($"Seja bem vindo {item.Nome}");
+                    return;
+                }else
+                {
+                    Console.WriteLine("Email ou senha incorretos");
+                }
+                }
+            }  
+        }
         public static void Listar(){
             foreach (var item in arrayDeUsuarios)
             {
@@ -51,7 +77,7 @@ namespace pizzaria
                 {
                     break;
                 }
-                System.Console.WriteLine($"Usuário: {item.Nome}");
+                System.Console.WriteLine($"Id: {item.Id} Usuário: {item.Nome}");
                 
             }
         }
