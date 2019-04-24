@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\DesafioPizzaria + Parte2\\DesafioPizzaria\\DesafioPizzaria.csproj",
-      "projectName": "DesafioPizzaria",
-      "projectPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\DesafioPizzaria + Parte2\\DesafioPizzaria\\DesafioPizzaria.csproj",
+      "projectUniqueName": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\Senaizinho_2_Manha\\Senaizinho_2_Manha\\Senaizinho_2_Manha.csproj",
+      "projectName": "Senaizinho_2_Manha",
+      "projectPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\Senaizinho_2_Manha\\Senaizinho_2_Manha\\Senaizinho_2_Manha.csproj",
       "packagesPath": "C:\\Users\\46748080819\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\DesafioPizzaria + Parte2\\DesafioPizzaria\\obj\\",
+      "outputPath": "c:\\Users\\46748080819\\Documents\\coisas-menos-velhas\\c-\\aulas C#\\Senaizinho_2_Manha\\Senaizinho_2_Manha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
