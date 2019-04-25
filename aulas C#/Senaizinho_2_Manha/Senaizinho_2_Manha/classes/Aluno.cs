@@ -3,9 +3,14 @@ namespace Senaizinho_2_Manha
 {
     public class Aluno
     {
-        public string nome;
-        public DateTime dataNascimento;
-        public string curso;
-        public int numeroSala;
+        public string Nome {get; set;}
+        public DateTime DataNascimento {get; set;}
+        public string Curso {get; set;}
+        public int NumeroSala {get; set;}
+
+        public Aluno(string nome)
+        {
+            this.Nome = nome;
+        }
     }
 }

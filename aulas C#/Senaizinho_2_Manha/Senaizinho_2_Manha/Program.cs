@@ -7,7 +7,7 @@ namespace Senaizinho_2_Manha {
 
             int limiteAlunos = 5;
             int limiteSalas = 2;
-            int limiteProfessore = 2;
+            // int limiteProfessores = 2;
             Aluno[] alunos = new Aluno[limiteAlunos];
             int alunosCadastrados = 0;
             Sala[] salas = new Sala[limiteSalas];
@@ -33,20 +33,20 @@ namespace Senaizinho_2_Manha {
                 System.Console.Write ("Código: ");
                 int codigo = int.Parse (Console.ReadLine ());
 
-                switch (codigo) {
-                    #region CADASTRO_ALUNOS
-                    case 1:
-                        if (limiteAlunos != alunosCadastrados) {
-                            Aluno aluno = new Aluno ();
+                string mensagem = "";
 
+                switch (codigo) {
+                    case 1:
+                        #region CADASTRO_ALUNOS
+                        if (limiteAlunos != alunosCadastrados) {
                             System.Console.WriteLine ("Digite o nome do aluno");
-                            aluno.nome = Console.ReadLine ();
+                            Aluno aluno = new Aluno (Console.ReadLine ());
 
                             System.Console.WriteLine ("Digite a data de nascimento (dd/mm/aaaa)");
-                            aluno.dataNascimento = DateTime.Parse (Console.ReadLine ());
+                            aluno.DataNascimento = DateTime.Parse (Console.ReadLine ());
 
                             System.Console.WriteLine ("Digite o nome do curso");
-                            aluno.curso = Console.ReadLine ();
+                            aluno.Curso = Console.ReadLine ();
 
                             alunos[alunosCadastrados] = aluno;
 
@@ -60,17 +60,17 @@ namespace Senaizinho_2_Manha {
                         break;
                         #endregion 
                     case 2:
-                        Sala sala = new Sala ();
+                        #region CADASTRO_SALAS
 
                         System.Console.WriteLine ("Digite o número da sala");
-                        sala.numeroSala = int.Parse (Console.ReadLine ());
+                        int NumeroSala = int.Parse (Console.ReadLine ());
 
                         System.Console.WriteLine ("Digite a capacidade total");
-                        sala.capacidadeTotal = int.Parse (Console.ReadLine ());
+                        int CapacidadeTotal = int.Parse (Console.ReadLine ());
 
-                        sala.capacidadeAtual = sala.capacidadeTotal;
+                        Sala sala = new Sala (NumeroSala, CapacidadeTotal);
 
-                        sala.alunos = new string[sala.capacidadeTotal];
+                        sala.CapacidadeAtual = sala.CapacidadeTotal;
 
                         salas[salasCadastradas] = sala;
 
@@ -82,8 +82,9 @@ namespace Senaizinho_2_Manha {
                         Console.ReadLine ();
 
                         break;
+                        #endregion
                     case 3:
-
+                        #region ALOCAR_ALUNO
                         if (!ValidarAlocarOuRemover (alunosCadastrados, salasCadastradas)) {
                             continue;
                         }
@@ -115,14 +116,19 @@ namespace Senaizinho_2_Manha {
                             continue;
 
                         }
-                        MostrarMensagem (salaRecuperada.AlocarAluno (alunoRecuperado.nome), TipoMensagemEnum.DESTAQUE);
+                        if (salaRecuperada.AlocarAluno (alunoRecuperado, out mensagem)) {
+                            MostrarMensagem (mensagem, TipoMensagemEnum.SUCESSO);
+                        } else {
+                            MostrarMensagem (mensagem, TipoMensagemEnum.ERRO);
+                        }
 
                         System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
                         Console.ReadLine ();
 
                         break;
+                        #endregion
                     case 4:
-
+                        #region REMOVER_ALUNO
                         ValidarAlocarOuRemover (alunosCadastrados, salasCadastradas);
 
                         System.Console.WriteLine ("Digite o nome do aluno");
@@ -131,7 +137,7 @@ namespace Senaizinho_2_Manha {
                         Aluno alunoRemover = null;
 
                         foreach (Aluno item in alunos) {
-                            if (item != null && nomeAlunoRemover.Equals (item.nome)) {
+                            if (item != null && nomeAlunoRemover.Equals (item.Nome)) {
                                 alunoRemover = item;
                                 break;
                             }
@@ -152,7 +158,7 @@ namespace Senaizinho_2_Manha {
                         // Busca pela Sala correta
                         Sala salaRemover = null;
                         foreach (Sala item in salas) {
-                            if (item != null && numeroSalaRemover.Equals (item.numeroSala)) {
+                            if (item != null && numeroSalaRemover.Equals (item.NumeroSala)) {
                                 salaRemover = item;
                                 break;
                             }
@@ -167,17 +173,15 @@ namespace Senaizinho_2_Manha {
 
                         }
 
-                        MostrarMensagem (salaRemover.RemoverAluno (alunoRemover.nome), TipoMensagemEnum.DESTAQUE);
-
-                        System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
-                        Console.ReadLine ();
                         break;
+                        #endregion
                     case 5:
+                        #region VERIFICAR_SALAS
                         foreach (var item in salas) {
                             if (item != null) {
                                 System.Console.WriteLine ("-----------------------------------------------------");
-                                System.Console.WriteLine ($"Número da sala: {item.numeroSala}");
-                                System.Console.WriteLine ($"Vagas disponíveis: {item.capacidadeAtual}");
+                                System.Console.WriteLine ($"Número da sala: {item.NumeroSala}");
+                                System.Console.WriteLine ($"Vagas disponíveis: {item.CapacidadeAtual}");
                                 System.Console.WriteLine ($"Alunos: {item.ExibirAlunos()}");
                                 System.Console.WriteLine ("-----------------------------------------------------");
                             }
@@ -186,12 +190,14 @@ namespace Senaizinho_2_Manha {
                         System.Console.WriteLine ("Aperte ENTER para voltar ao menu principal");
                         Console.ReadLine ();
                         break;
+                        #endregion
                     case 6:
+                        #region  VERIFICAR_ALUNOS
                         foreach (var item in alunos) {
                             if (item != null) {
                                 System.Console.WriteLine ("-----------------------------------------------------");
-                                System.Console.WriteLine ($"Nome do aluno: {item.nome}");
-                                System.Console.WriteLine ($"Curso: {item.curso}");
+                                System.Console.WriteLine ($"Nome do aluno: {item.Nome}");
+                                System.Console.WriteLine ($"Curso: {item.Curso}");
                                 System.Console.WriteLine ("-----------------------------------------------------");
                             }
                         }
@@ -199,7 +205,7 @@ namespace Senaizinho_2_Manha {
                         Console.ReadLine ();
 
                         break;
-
+                        #endregion
                 }
 
             } while (!querSair);
@@ -244,16 +250,16 @@ namespace Senaizinho_2_Manha {
         }
         static Aluno ProcurarAlunoPorNome (Aluno[] alunos, string nome) {
             foreach (Aluno item in alunos) {
-                if (item != null && nome.Equals (item.nome)) {
+                if (item != null && nome.Equals (item.Nome)) {
                     return item;
                 }
             }
             return null;
         }
-        static Sala ProcurarSalaPorNumero (Sala[] salas, string numero) {
+        static Sala ProcurarSalaPorNumero (Sala[] salas, int numero) {
             foreach (Sala item in salas) {
-                if (item != null && numero.Equals (item.numeroSala)) {
-                       return item;
+                if (item != null && numero.Equals (item.NumeroSala)) {
+                    return item;
                 }
             }
             return null;
