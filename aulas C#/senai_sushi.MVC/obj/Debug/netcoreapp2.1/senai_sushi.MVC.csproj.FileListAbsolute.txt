@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\obj\Debug\netcoreapp2.1\senai_sushi.MVC.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\obj\Debug\netcoreapp2.1\senai_sushi.MVC.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\obj\Debug\netcoreapp2.1\senai_sushi.MVC.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\obj\Debug\netcoreapp2.1\senai_sushi.MVC.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\bin\Debug\netcoreapp2.1\senai_sushi.MVC.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\bin\Debug\netcoreapp2.1\senai_sushi.MVC.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\bin\Debug\netcoreapp2.1\senai_sushi.MVC.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\bin\Debug\netcoreapp2.1\senai_sushi.MVC.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\bin\Debug\netcoreapp2.1\senai_sushi.MVC.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\obj\Debug\netcoreapp2.1\senai_sushi.MVC.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senai_sushi.MVC\obj\Debug\netcoreapp2.1\senai_sushi.MVC.pdb
