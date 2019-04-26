@@ -28,7 +28,7 @@ namespace Senaizinho_2_Manha {
 
         public bool RemoverAluno (string nomeAluno, out string mensagem) {
             for (int i = 0; i < Alunos.Length; i++) {
-                if (Alunos[i] != null && nomeAluno.Equals (Alunos[i])) {
+                if (Alunos[i] != null && nomeAluno.Equals (Alunos[i].Nome)) {
                     Alunos[i] = null;
                     CapacidadeAtual++;
                     mensagem = $"Aluno {nomeAluno} removido com sucesso!";
@@ -43,7 +43,7 @@ namespace Senaizinho_2_Manha {
             string nomesAlunos = "";
             foreach (var item in Alunos) {
                 if (item != null) {
-                    nomesAlunos += item + " ";
+                    nomesAlunos += item.Nome + " ";
                 }
             }
             return nomesAlunos;
