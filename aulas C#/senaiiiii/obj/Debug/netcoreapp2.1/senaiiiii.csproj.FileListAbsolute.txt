@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\bin\Debug\netcoreapp2.1\senaiiiii.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\bin\Debug\netcoreapp2.1\senaiiiii.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\bin\Debug\netcoreapp2.1\senaiiiii.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\bin\Debug\netcoreapp2.1\senaiiiii.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\bin\Debug\netcoreapp2.1\senaiiiii.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\obj\Debug\netcoreapp2.1\senaiiiii.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\obj\Debug\netcoreapp2.1\senaiiiii.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\obj\Debug\netcoreapp2.1\senaiiiii.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\obj\Debug\netcoreapp2.1\senaiiiii.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\obj\Debug\netcoreapp2.1\senaiiiii.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\senaiiiii\obj\Debug\netcoreapp2.1\senaiiiii.pdb
