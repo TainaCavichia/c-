@@ -1,0 +1,22 @@
+C:\Users\42720780898\Desktop\To-Do\bin\Debug\netcoreapp2.1\To-Do.deps.json
+C:\Users\42720780898\Desktop\To-Do\bin\Debug\netcoreapp2.1\To-Do.runtimeconfig.json
+C:\Users\42720780898\Desktop\To-Do\bin\Debug\netcoreapp2.1\To-Do.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\To-Do\bin\Debug\netcoreapp2.1\To-Do.dll
+C:\Users\42720780898\Desktop\To-Do\bin\Debug\netcoreapp2.1\To-Do.pdb
+C:\Users\42720780898\Desktop\To-Do\obj\Debug\netcoreapp2.1\To-Do.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\To-Do\obj\Debug\netcoreapp2.1\To-Do.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\To-Do\obj\Debug\netcoreapp2.1\To-Do.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\To-Do\obj\Debug\netcoreapp2.1\To-Do.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\To-Do\obj\Debug\netcoreapp2.1\To-Do.dll
+C:\Users\42720780898\Desktop\To-Do\obj\Debug\netcoreapp2.1\To-Do.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\bin\Debug\netcoreapp2.1\To-Do.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\bin\Debug\netcoreapp2.1\To-Do.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\bin\Debug\netcoreapp2.1\To-Do.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\bin\Debug\netcoreapp2.1\To-Do.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\bin\Debug\netcoreapp2.1\To-Do.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\obj\Debug\netcoreapp2.1\To-Do.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\obj\Debug\netcoreapp2.1\To-Do.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\obj\Debug\netcoreapp2.1\To-Do.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\obj\Debug\netcoreapp2.1\To-Do.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\obj\Debug\netcoreapp2.1\To-Do.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\To-Do\obj\Debug\netcoreapp2.1\To-Do.pdb
