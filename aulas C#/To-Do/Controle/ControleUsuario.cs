@@ -15,7 +15,7 @@ namespace To_Do.Controle {
             email = Console.ReadLine ();
             System.Console.WriteLine ("Tipo de Usuário: (simples/administrador)");
             tipo = Console.ReadLine ();
-            System.Console.WriteLine ("Digite sua senha: (8 ou mais dígitos)");
+            System.Console.WriteLine ("Digite sua senha: (6 ou mais dígitos)");
             senha = Console.ReadLine ();
             System.Console.WriteLine ("Confirme sua senha:");
             confirmacao = Console.ReadLine ();
@@ -29,7 +29,7 @@ namespace To_Do.Controle {
 
             usuarioRepositorio.Inserir (modelousuario);
 
-            System.Console.WriteLine ("\nCadastro realizado com sucesso");
+            MostrarMensagem ("Cadastro realizado com sucesso", TipoMensagemEnum.SUCESSO);
         }
         public static ModeloUsuario EfetuarLogin () {
             string email, senha;
@@ -63,8 +63,8 @@ namespace To_Do.Controle {
                     break;
                 default:
                     break;
-
             }
+            Console.ResetColor ();
         }
     }
 }

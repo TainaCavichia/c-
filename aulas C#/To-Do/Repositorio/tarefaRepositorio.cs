@@ -1,16 +1,25 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using To_Do.Modelos;
 
 namespace To_Do.Repositorio {
     public class TarefaRepositorio {
         List<ModeloTarefas> listaDeTarefas = new List<ModeloTarefas> ();
         public ModeloTarefas Inserir (ModeloTarefas tarefa) {
-            tarefa.Id = listaDeTarefas.Count + 1;
+            List<ModeloTarefas> listaDeTarefas = Listar ();
+            int contador = 0;
+            if (listaDeTarefas != null)
+            {
+                contador = listaDeTarefas.Count;
+            }
+            tarefa.Id = contador + 1;
             tarefa.DataCriacao = DateTime.Now;
             tarefa.Tipo = "A FAZER";
 
-            listaDeTarefas.Add (tarefa);
+            StreamWriter sw = new StreamWriter ("tarefas.csv", true);
+            sw.WriteLine ($"{tarefa.Id};{tarefa.IdUsuário};{tarefa.Nome};{tarefa.Descricao};{tarefa.DataCriacao};{tarefa.Tipo}");
+            sw.Close();
             return tarefa;
         }
         public List<ModeloTarefas> Listar () {

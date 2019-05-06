@@ -15,6 +15,7 @@ namespace To_Do.Utilidades
             System.Console.WriteLine("|- Digite um dos códigos abaixo: ----|");
             System.Console.WriteLine("|- 1- Registrar tarefa --------------|");
             System.Console.WriteLine("|- 2- Listar tarefas ----------------|");
+            System.Console.WriteLine("|- 3- Alterar tipo ------------------|");
             System.Console.WriteLine("|- 0- Deslogar ----------------------|");
             System.Console.WriteLine("|------------------------------------|");
         }

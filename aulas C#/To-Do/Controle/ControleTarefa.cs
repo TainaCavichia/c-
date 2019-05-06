@@ -26,10 +26,15 @@ namespace To_Do.Controle {
 
             return idusuario;
         }
-        public static void ListarTarefas () {
+        public static void ListarTarefas (ModeloUsuario usuario) {
             List<ModeloTarefas> listaDeTarefas = tarefaRepositorio.Listar ();
             foreach (var item in listaDeTarefas) {
-                System.Console.WriteLine ($"--------------------------------------------\nNome: {item.Nome}\nDescrição: {item.Descricao}\nId do Usuário: {item.IdUsuário}\nData: {item.DataCriacao}\nSituação: {item.Tipo}\n--------------------------------------------");
+                if (item != null) {
+                    if (item.Id.Equals (usuario.Id)) {
+
+                        System.Console.WriteLine ($"--------------------------------------------\nNome: {item.Nome}\nDescrição: {item.Descricao}\nId do Usuário: {item.IdUsuário}\nData: {item.DataCriacao}\nSituação: {item.Tipo}\n--------------------------------------------");
+                    }
+                }
             }
             MostrarMensagem ("Clique ENTER para continuar", TipoMensagemEnum.DESTAQUE);
             Console.ReadLine ();
@@ -38,17 +43,16 @@ namespace To_Do.Controle {
             int id;
             string situacao;
 
-                System.Console.WriteLine ("Digite seu email:");
-                id = int.Parse (Console.ReadLine ());
+            System.Console.WriteLine ("Digite o id da tarefa a ser modificada:");
+            id = int.Parse (Console.ReadLine ());
             do {
                 System.Console.WriteLine ("Digite a situação: (A FAZER, FAZENDO, FEITO)");
                 situacao = Console.ReadLine ().ToUpper ();
-            } while (situacao != "A FAZER" || situacao !="FAZENDO" || situacao !="FEITO");
+            } while (situacao != "A FAZER" || situacao != "FAZENDO" || situacao != "FEITO");
 
             ModeloTarefas tarefaRecuperada = tarefaRepositorio.BuscarTarefa (id, situacao);
 
-            if (tarefaRecuperada != null) {
-            } else {
+            if (tarefaRecuperada != null) { } else {
                 MostrarMensagem ("Id inválido", TipoMensagemEnum.ALERTA);
             }
         }

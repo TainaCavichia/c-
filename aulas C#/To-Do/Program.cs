@@ -31,7 +31,7 @@ namespace To_Do {
                     bool sairr = false;
                         ModeloUsuario usuarioRecuperado = ControleUsuario.EfetuarLogin ();
                         System.Console.WriteLine ("|------------------------------------|");
-                        System.Console.WriteLine ($"|     Bem-vindo ao TO-DO {usuarioRecuperado.Nome}      |");
+                        System.Console.WriteLine ($"|     Bem-vindo ao TO-DO {usuarioRecuperado.Nome}       |");
                     do{
                         if (usuarioRecuperado.Tipo.Equals ("ADM")) {
                             Menus.Menu_Logado_ADM ();
@@ -50,7 +50,7 @@ namespace To_Do {
                                     break;
 
                                 case 2:
-                                    ControleTarefa.ListarTarefas ();
+                                    ControleTarefa.ListarTarefas (usuarioRecuperado);
                                     break;
 
                                 case 3:
@@ -61,7 +61,7 @@ namespace To_Do {
                                     sair = true;
                                     break;
                             }
-                        } else {
+                        } else if(usuarioRecuperado.Tipo.Equals("USUARIO")){
 
                             Menus.Menu_Logado_USUARIO ();
 
@@ -77,7 +77,7 @@ namespace To_Do {
 
                             switch (codigo) {
                                 case 1:
-                                    ControleTarefa.ListarTarefas ();
+                                    ControleTarefa.ListarTarefas (usuarioRecuperado);
                                     break;
 
                                 case 2:
