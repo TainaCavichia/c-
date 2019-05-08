@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\bin\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\bin\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\bin\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\bin\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\bin\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\obj\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\obj\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\obj\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\obj\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\obj\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\ESCOLA.DE.ROCK.MVC\obj\Debug\netcoreapp2.1\ESCOLA.DE.ROCK.MVC.pdb

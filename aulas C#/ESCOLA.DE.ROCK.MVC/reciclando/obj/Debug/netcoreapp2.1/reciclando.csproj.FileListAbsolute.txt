@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\bin\Debug\netcoreapp2.1\reciclando.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\bin\Debug\netcoreapp2.1\reciclando.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\bin\Debug\netcoreapp2.1\reciclando.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\bin\Debug\netcoreapp2.1\reciclando.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\bin\Debug\netcoreapp2.1\reciclando.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\obj\Debug\netcoreapp2.1\reciclando.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\obj\Debug\netcoreapp2.1\reciclando.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\obj\Debug\netcoreapp2.1\reciclando.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\obj\Debug\netcoreapp2.1\reciclando.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\obj\Debug\netcoreapp2.1\reciclando.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\ESCOLA.DE.ROCK.MVC\reciclando\obj\Debug\netcoreapp2.1\reciclando.pdb
