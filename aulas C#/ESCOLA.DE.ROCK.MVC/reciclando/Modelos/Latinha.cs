@@ -7,6 +7,7 @@ namespace reciclando.Modelos
     {
          public bool ReciclarComoMetal(){
             Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Black;
             System.Console.WriteLine("Jogue o lixo no cesto AMARELO");
             Console.ResetColor();
             return true;
