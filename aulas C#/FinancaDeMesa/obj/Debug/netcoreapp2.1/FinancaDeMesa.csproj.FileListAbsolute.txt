@@ -1,0 +1,11 @@
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\bin\Debug\netcoreapp2.1\FinancaDeMesa.deps.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\bin\Debug\netcoreapp2.1\FinancaDeMesa.runtimeconfig.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\bin\Debug\netcoreapp2.1\FinancaDeMesa.runtimeconfig.dev.json
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\bin\Debug\netcoreapp2.1\FinancaDeMesa.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\bin\Debug\netcoreapp2.1\FinancaDeMesa.pdb
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\obj\Debug\netcoreapp2.1\FinancaDeMesa.csprojAssemblyReference.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\obj\Debug\netcoreapp2.1\FinancaDeMesa.csproj.CoreCompileInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\obj\Debug\netcoreapp2.1\FinancaDeMesa.AssemblyInfoInputs.cache
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\obj\Debug\netcoreapp2.1\FinancaDeMesa.AssemblyInfo.cs
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\obj\Debug\netcoreapp2.1\FinancaDeMesa.dll
+C:\Users\46748080819\Documents\coisas-menos-velhas\c-\aulas C#\FinancaDeMesa\obj\Debug\netcoreapp2.1\FinancaDeMesa.pdb
